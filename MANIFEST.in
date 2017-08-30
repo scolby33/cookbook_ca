@@ -1,5 +1,5 @@
 graft src
-docs
+graft docs
 graft tests
 
 prune docs/build
