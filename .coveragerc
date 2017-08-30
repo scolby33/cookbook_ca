@@ -1,0 +1,11 @@
+[run]
+branch = True
+source = cookbook_ca
+
+[paths]
+source =
+    src/cookbook_ca
+    .tox/*/lib/python*/site-packages/cookbook_ca
+
+[report]
+show_missing = True
