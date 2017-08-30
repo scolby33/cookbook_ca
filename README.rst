@@ -1,5 +1,5 @@
-cookbook_ca |python_versions| |license|
-=======================================
+cookbook_ca |python_versions| |license| |develop_build| |develop_coverage|
+==========================================================================
 A Certificate Authority in the spirit off Ivan Ristić's OpenSSL Cookbook.
 
 .. |python_versions| image:: https://img.shields.io/badge/python->%3D3.6-blue.svg?style=flat-square
@@ -8,7 +8,12 @@ A Certificate Authority in the spirit off Ivan Ristić's OpenSSL Cookbook.
 .. |license| image:: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
     :target: LICENSE.rst
     :alt: MIT License
-
+.. |develop_build| image:: https://img.shields.io/travis/scolby33/cookbook_ca/develop.svg?style=flat-square
+    :target: https://travis-ci.org/scolby33/cookbook_ca
+    :alt: Development Build Status
+.. |develop_coverage| image:: https://img.shields.io/codecov/c/github/scolby33/cookbook_ca/develop.svg?style=flat-square
+    :target: https://codecov.io/gh/scolby33/cookbook_ca/branch/develop
+    :alt: Development Test Coverage Status
 
 Installation
 ------------
